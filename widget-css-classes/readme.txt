@@ -5,7 +5,7 @@ Tags: widgets, classes, css, widget classes, widget css
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Requires at least: 3.3
-Tested up to: 6.5
+Tested up to: 6.7
 Requires PHP: 5.2.4
 Stable tag: 1.5.4.1
 
@@ -225,5 +225,7 @@ Detailed info: [PR on GitHub](https://github.com/cleverness/widget-css-classes/p
 - Russian translation by Наталия Завьялова
 - Swedish translation by [Olle Gustafsson](http://www.ollegustafsson.com/)
 - Fix ids notice by [Ricardo Lüders](http://www.luders.com.br/)
+- Brazilian Portuguese translation by [Jonathan Xavier at Mealfan](https://mealfan.com/)
 
+[Translation Contributors](https://translate.wordpress.org/projects/wp-plugins/widget-css-classes/contributors/)
 [GitHub Contributors](https://github.com/JoryHogeveen/widget-css-classes/graphs/contributors)
